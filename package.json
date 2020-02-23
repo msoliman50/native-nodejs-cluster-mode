@@ -1,0 +1,21 @@
+{
+  "name": "native-nodejs-cluster-mode",
+  "version": "1.0.0",
+  "description": "Allow nodejs/express app to utilize all the cpu's cores to make efficient http app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJS",
+    "Cluster",
+    "CPU",
+    "Cores"
+  ],
+  "author": "Mahmoud Soliman <mahmoudsoliman50@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
